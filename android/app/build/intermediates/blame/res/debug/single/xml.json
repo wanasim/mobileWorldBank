@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/nardos/Documents/DataBankApp/android/C:\\Users\\dapamart\\Documents\\Innovation\\DataBankApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "/Users/nardos/Documents/DataBankApp/android/C:\\Users\\dapamart\\Documents\\Innovation\\DataBankApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.48.4\\res\\xml\\preferences.xml"
+        "merged": "C:\\Users\\wnasim\\Documents\\DevProjects\\reactMobileProject\\final_mobileApp\\DataBankApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\wnasim\\Documents\\DevProjects\\reactMobileProject\\final_mobileApp\\DataBankApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.48.4\\res\\xml\\preferences.xml"
     },
     {
-        "merged": "/Users/nardos/Documents/DataBankApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/Users/nardos/Documents/DataBankApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/res/xml/preferences.xml"
+        "merged": "C:\\Users\\nardos\\Documents\\DataBankApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\nardos\\Documents\\DataBankApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.48.4\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\nardos\\Documents\\DataBankApp\\android\\C:\\Users\\dapamart\\Documents\\Innovation\\DataBankApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\nardos\\Documents\\DataBankApp\\android\\C:\\Users\\dapamart\\Documents\\Innovation\\DataBankApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.48.4\\res\\xml\\preferences.xml"
     }
 ]

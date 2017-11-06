@@ -1,4 +1,4 @@
-#Wed Oct 18 00:24:14 EDT 2017
-base.0=/Users/nardos/Documents/DataBankApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Mon Oct 23 11:10:44 EDT 2017
+base.0=C\:\\Users\\wnasim\\Documents\\DevProjects\\reactMobileProject\\final_mobileApp\\DataBankApp\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=/Users/nardos/Documents/DataBankApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=C\:\\Users\\wnasim\\Documents\\DevProjects\\reactMobileProject\\final_mobileApp\\DataBankApp\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
